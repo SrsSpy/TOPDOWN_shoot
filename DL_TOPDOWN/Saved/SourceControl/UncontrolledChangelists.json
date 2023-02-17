@@ -1,0 +1,23 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/TopDownShooterJuliaKonarczak-main/TopDownShooterJK/Content/Levels/Main.umap",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Blueprints/Pawns/BP_Soldier_01.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Blueprints/GameManager/BP_TopDownShooterGameMode_01.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Levels/Main.umap",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Materials/MI_MarineSoldier.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Animations/AB_Marine01.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Animations/BS_Marine01.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Weapons/Materials/MagGun_MatA_Inst3.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Sounds/Weapon_AssaultRifle/Stereo/RandomFireloop.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Sounds/Weapon_AssaultRifle/Stereo/GunFireEnd.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Animations/AnimationBP_Marine.uasset",
+				"C:/Repositories/TopDownShooterJuliaKonarczak/TopDownShooterJK/Content/Characters/Marine/Animations/AB_Marine.uasset"
+			]
+		}
+	]
+}
